@@ -8,7 +8,7 @@
 - 🎓 Software Engineering Student | 💻 Java Enthusiast
 - ⚡ Passionate about problem-solving security!
 - 🌱 Currently learning Java, SQL Server
-- 
+
 ## 🔥 Fun Facts
 💡 I love exploring new technologies and pushing my limits!
 
