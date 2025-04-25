@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Areeba!
+### 👋 Hey, I'm Areeba!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ffff&center=true&vCenter=true&width=435&lines=Software+Engineer!;Code,+Create,+and+Conquer!" alt="Typing SVG" />
