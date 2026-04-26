@@ -1,22 +1,55 @@
 ## 👋 Hey, I'm Areeba!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ffff&center=true&vCenter=true&width=435&lines=Software+Engineer!;Code,+Create,+and+Conquer!" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ffff&center=true&vCenter=true&width=500&lines=Software+Engineer!;Code,+Create,+Conquer!" alt="Typing SVG" />
 </div>
 
+---
+
 ## About Me
-- 🎓 Software Engineering Student | 💻 Java Enthusiast
-- ⚡ Passionate about problem-solving security!
-- 🌱 Currently learning Java, DSA
+
+- 🎓 Software Engineering Student at COMSATS University Islamabad
+- 💻 Java & Python Enthusiast | Building scalable applications
+- 📱 Mobile Development | Android, UI/UX Design
+- ⚡ Passionate about problem-solving, security, and clean code
+- 🌱 Currently learning Android Development, DSA, and Cloud Technologies
+
+---
 
 ## 🔥 Fun Facts
- I love exploring new technologies and pushing my limits!
 
-## 💻 Tech Stack & Tools
+- 💡 I love exploring new technologies and pushing my limits!
+- 🏆 CS50 certified (Harvard - Computer Science & CyberSecurity)
+- 🎨 Interested in UI/UX design alongside backend development
+- 🚀 Building real-world projects to solve actual problems
 
-| Programming | Version Control | Databases | IDEs | OS |
-|------------|----------------|-----------|------|----|
-| [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) |
+---
 
+## 💻 Tech Stack
 
+**Programming Languages:** Java, Python, C++, JavaScript, C
+
+**Mobile & Frontend:** Android Studio, HTML/CSS, Material Design
+
+**Databases & Backend:** SQL, SQLite 
+
+**Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Linux
+
+**Soft Skills:** Problem Solving, Team Work, Time Management, Communication
+
+---
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Software Engineering** - COMSATS University Islamabad (2024-2028)
+- **CS50's Introduction to Computer Science** - Harvard University (2024)
+- **CS50's Introduction to CyberSecurity** - Harvard University (2025)
+
+---
+
+## 💬 Connect With Me
+
+📧 Email: areebaasifjaved@gmail.com
+💼 LinkedIn: [areeba-asif-javed](https://www.linkedin.com/in/areeba-asif-javed)
+
+---
