@@ -11,8 +11,8 @@
 - 🎓 Software Engineering Student at COMSATS University Islamabad
 - 💻 Java & Python Enthusiast | Building scalable applications
 - 📱 Mobile Development | Android, UI/UX Design
+- 🌱 Web Development | Php, Laravel
 - ⚡ Passionate about problem-solving, security, and clean code
-- 🌱 Currently learning Android Development, DSA, and Cloud Technologies
 
 ---
 
@@ -20,7 +20,7 @@
 
 - 💡 I love exploring new technologies and pushing my limits!
 - 🏆 CS50 certified (Harvard - Computer Science & CyberSecurity)
-- 🎨 Interested in UI/UX design alongside backend development
+- 🎨 Interested in security and backend development alongside UI/UX
 - 🚀 Building real-world projects to solve actual problems
 
 ---
@@ -29,9 +29,9 @@
 
 **Programming Languages:** Java, Python, C++, JavaScript, C
 
-**Mobile & Frontend:** Android Studio, HTML/CSS, Material Design
+**Mobile & Frontend** Android Studio, Flutter/Dart, Html/Css
 
-**Databases & Backend:** SQL, SQLite 
+**Databases & Backend:** MySQL, PostgreSql, Firebase Firestore 
 
 **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Linux
 
